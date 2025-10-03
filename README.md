@@ -1,33 +1,36 @@
 # canvrs
 
-i’m canvrs, a developer from germany who builds web tools that try to stay out of the way but make a real difference. i spend most of my time at [@modcoretech](https://github.com/modcoretech), where the focus is on extensions and utilities that make the web smoother, faster, and a little saner.
+hey, i’m canvrs — a developer from germany who likes building small, sharp tools that make the web less annoying.  
+
+right now i spend most of my time at [@modcoretech](https://github.com/modcoretech), where we work on extensions and web utilities that put the user first (and trackers last).
 
 ---
 
-## what i’m working on
+## things i build
 
 - [**modcore extension manager**](https://github.com/modcoretech/modcore-extension-manager)  
-  manage, analyze, and customize your browser extensions without the clutter.  
+  manage, analyze, and tame your browser extensions without the bloat.
 
 - [**link sanitizer**](https://github.com/modcoretech/link-sanitizer)  
-  strip trackers and noise from urls before they follow you around.  
+  scrubs trackers and mess from urls — because no one asked for `?utm_campaign=whatever`.
 
 - [**dictionary extension**](https://github.com/modcoretech/dictionary-extension)  
-  a fast, lightweight dictionary that works right where you are.  
+  highlight, click, learn. fast definitions without leaving the page.
 
-new tools and ideas are always in the mix — i like experimenting with small things that can scale.
+i like tools that are quiet, efficient, and almost invisible — the kind you miss once they’re gone.
 
 ---
 
 ## about me
 
-- germany-based, fluent in english & german, learning spanish and turkish  
-- into web development, design systems, and games
-- focused on details, ux, and performance — because the small stuff adds up  
+- based in germany  
+- work in english + german (dabble in spanish & turkish)  
+- into clean ux, design systems, performance tuning, and occasionally gaming way too late at night  
+- generally obsessed with details most people overlook (and proud of it)  
 
 ---
 
 ## elsewhere
 
-most of what i build lives at [@modcoretech](https://github.com/modcoretech).  
-sometimes i write or share thoughts, but mostly, i’m shipping and refining quietly.
+you’ll mostly see my work through [@modcoretech](https://github.com/modcoretech).  
+i don’t post much — building is louder than talking.
